@@ -1,6 +1,6 @@
 name: JeremyHughes
 favicon: null
-layout_spectrum: 0.74578
+layout_spectrum: 1
 typography_spectrum: 0.93668
 cta:
   domain: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.24306993978098035
   lightness: 0.32227300526574254
   saturation: 0.5160885583609343
-  rhythmicContrast: 0.06089245178736746
+  rhythmicContrast: 0
 purpose: []
